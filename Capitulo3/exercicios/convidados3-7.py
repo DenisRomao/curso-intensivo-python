@@ -1,3 +1,5 @@
+# exercicio 3.7
+
 lista_convidados = ['katy', 'gabriel', 'samuel',
                     'rebecca', 'layna', 'israel', 'clara']
 

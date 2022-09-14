@@ -1,3 +1,5 @@
+# exercicio 3.6
+
 lista_convidados = ['gabriel', 'samuel', 'layna', 'israel']
 
 print(lista_convidados[0].title(),
